@@ -1,4 +1,4 @@
-![MasterHead](https://media2.giphy.com/media/RI4LTRjrVJhTskGtrb/giphy.gif?cid=ecf05e47xkvbjr1j7j5im0xjzbzmeg5pnv0y5o9t0kmsd46y&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![MasterHead.](https://media.giphy.com/media/RI4LTRjrVJhTskGtrb/giphy.gif)
 
 # Text_spam_ham_detection
 
@@ -52,6 +52,7 @@ For accuracy of the project:
 ---
 
 #Conclusion
+
 In conclusion, the Spam-Ham Detection project represents a significant achievement in the realm of email communication security. By employing rigorous Exploratory Data Analysis (EDA), thorough data cleaning, precise tokenization, and lemmatization techniques, we successfully prepared the dataset for robust analysis. Leveraging the power of a Support Vector Machine (SVM) model, we constructed a sophisticated classification system capable of accurately discerning between spam and ham emails.
 
 The project's success is not merely confined to its predictive accuracy. The meticulous application of preprocessing techniques significantly improved the model's efficiency and minimized false positives, ensuring that legitimate emails are not mistakenly marked as spam. Additionally, the utilization of the Pickle library facilitated the seamless serialization and deserialization of the SVM model, enhancing its deployability in various applications.

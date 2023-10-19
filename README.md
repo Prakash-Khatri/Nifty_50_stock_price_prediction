@@ -51,7 +51,7 @@ For accuracy of the project:
 
 ---
 
-#Conclusion
+## Conclusion
 
 In conclusion, the Spam-Ham Detection project represents a significant achievement in the realm of email communication security. By employing rigorous Exploratory Data Analysis (EDA), thorough data cleaning, precise tokenization, and lemmatization techniques, we successfully prepared the dataset for robust analysis. Leveraging the power of a Support Vector Machine (SVM) model, we constructed a sophisticated classification system capable of accurately discerning between spam and ham emails.
 

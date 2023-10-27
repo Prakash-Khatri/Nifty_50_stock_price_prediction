@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/RI4LTRjrVJhTskGtrb/giphy.gif)
+![MasterHead](https://media.giphy.com/media/jsfmVOvsWANDa/giphy.gif)
 
 # Text_spam_ham_detection
 

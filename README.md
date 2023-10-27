@@ -60,3 +60,15 @@ The project's success is not merely confined to its predictive accuracy. The met
 Through this project, we have not only enhanced email security but also demonstrated the potential of advanced data analysis and machine learning in solving real-world challenges. The insights gained from the exploratory phase, coupled with the precision of the SVM model, lay the foundation for creating even more sophisticated email filters in the future.
 
 As we move forward, the knowledge and experience gained from this project serve as valuable assets. They empower us to explore further avenues, tackle more complex problems, and contribute meaningfully to the ongoing advancements in data science and cybersecurity. This project stands as a testament to our commitment to innovation, efficiency, and the relentless pursuit of excellence in the field of data-driven solutions.
+
+## Learnings
+1. Data Understanding: Gaining insights into the dataset, including the distribution of spam and ham (non-spam) emails, and understanding the features available for analysis.
+2. Cleaning and preprocessing the text data, including removing special characters, HTML tags, and stop words. Tokenizing the text and converting it into lowercase for consistency.
+3. Creating visualizations (e.g., histograms, word clouds) to understand the distribution of words in spam and ham emails, helping identify common patterns
+4. Analyzing important words or features that contribute to distinguishing between spam and ham emails.
+5. Trying out Support Vector Machines.
+
+## Future Scope:
+1. Develop mechanisms to process incoming emails in real-time, ensuring prompt classification for emails as they arrive.
+2. Collaborate with email service providers and cybersecurity communities to share knowledge, datasets, and best practices, fostering collective efforts in improving email security.
+
